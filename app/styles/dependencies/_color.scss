@@ -1,0 +1,34 @@
+// Colors
+$color-black: #000000;
+$color-white: #FFFFFF;
+
+$color-salmon: #D86E4D;
+$color-blue: #366B8A;
+$color-green: #369866;
+$color-orange: #D89A4D;
+
+$color-salmon-lt: #FFBEA9;
+$color-blue-lt: #86ADC4;
+$color-green-lt: #89CFAB;
+$color-orange-lt: #FFD8A9;
+
+$color-salmon-drk: #953011;
+$color-blue-drk: #0F415F;
+$color-green-drk: #0C6939;
+$color-orange-drk: #955A11;
+
+$color-grey--light: #F7F7F7;
+$color-grey--med: #666666;
+$color-grey--dark: #333333;
+
+$color-background: $color-white;
+
+// Colors: Semantic
+$color-text: $color-grey--med;
+$color-text-invert: $color-white;
+$color-text-link: $color-grey--med;
+//$color-text-link-hover: lighten($color-text-link, 10%);
+$color-text-link-hover: $color-orange;
+
+$color-heading: $color-grey--med;
+$color-heading-invert: $color-white;

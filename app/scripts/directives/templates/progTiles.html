@@ -1,0 +1,10 @@
+<div class="progtiles grid" ng-class="open ? 'filter-open': ''">
+		<figure class="effect-ming progtile" ng-repeat="tile in data" ng-class="evaluateFilters(tile, filters, search)">
+		<img ng-src="{{tile.image}}"/>
+		<figcaption>
+			<h2>{{tile.title}}</h2>
+			<!-- <p>Lily likes to play with crayons and pencils</p> -->
+			<a href="#">View more</a>
+		</figcaption>			
+	</figure>
+</div>

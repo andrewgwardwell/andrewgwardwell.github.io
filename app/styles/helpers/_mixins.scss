@@ -1,0 +1,235 @@
+@mixin db-outer-container {
+  @include clearfix;
+  @include margin(null auto null auto);
+  width: $width-palm;
+  max-width: $width-palm-max;
+  @include media($mq-lap-up) {
+    width: $width-lap;
+    max-width: $width-lap-max;
+  }
+  @include media($mq-desk-up) {
+    width: $width-desk;
+    max-width: $width-desk-max;
+  }
+}
+
+@mixin ie-db-outer-container {
+  @include clearfix;
+  @include margin(null auto null auto);
+  width: $width-desk;
+  max-width: $width-desk-max;
+}
+
+@mixin db-container($type: full) {
+  @if $type == full {
+    @include clearfix;
+    @include margin(null auto null auto);
+    width: $width-palm;
+    max-width: $width-palm-max;
+    @include media($mq-lap-up) {
+      width: $width-lap;
+      max-width: $width-lap-max;
+    }
+    @include media($mq-desk-up) {
+      width: $width-desk;
+      max-width: $width-desk-max;
+    }
+  }
+  @if $type == pseudo {
+    @include clearfix;
+    padding-left:2.5%;
+    padding-right:2.5%;
+  }
+}
+
+@mixin db-clearfix {
+  &:before,
+  &:after {
+    content: "";
+    display: table;
+  }
+  &:after {
+    clear: both;
+  }
+  zoom: 1; /* For IE 6/7 (trigger hasLayout) */
+}
+
+@mixin clearfix {
+  &:before,
+  &:after {
+    content: "";
+    display: table;
+  }
+  &:after {
+    clear: both;
+  }
+  zoom: 1; /* For IE 6/7 (trigger hasLayout) */
+}
+
+@mixin opacity($val) {
+  opacity:$val;
+  -moz-opacity:$val;
+  -webkit-opacity:$val;
+  filter:alpha(opacity=($val * 100));
+}
+
+@mixin heading($size) {
+//  color:$color-heading;
+  @include heading-scale($size);
+}
+
+@mixin heading-scale($size) {
+  @if $size == 1 {
+    font-size:em(64);
+  }
+  @if $size == 2 {
+    font-size:em(32);
+  }
+  @if $size == 3 {
+    font-size:em(25);
+  }
+  @if $size == 4 {
+    font-size:em(20);
+  }
+  @if $size == 5 {
+    font-size:em(17);
+  }
+
+  @include media($mq-lap-up) {
+    @if $size == 1 {
+      font-size:em(64);
+    }
+    @if $size == 2 {
+      font-size:em(45);
+    }
+    @if $size == 3 {
+      font-size:em(35);
+    }
+    @if $size == 4 {
+      font-size:em(30);
+    }
+    @if $size == 5 {
+      font-size:em(17);
+    }
+  }
+}
+
+@mixin db-hide-element {
+  position: absolute !important;
+  height: 1px; width: 1px; 
+  overflow: hidden;
+  clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px);
+}
+
+@mixin db-background($color, $alpha) {
+  $red: red($color);
+  $green: green($color);
+  $blue: blue($color);
+
+  background: $color;
+  background: rgba($red,$green,$blue,$alpha);
+}
+
+
+@function tri-width($screen-width){
+  @if ($screen-width == 'tablet'){
+     @return 1024px;
+  }
+  @if ($screen-width == 'desktop'){
+     @return 1600px;
+  }
+}
+
+
+@mixin handy-spacer{
+  &:before{
+    height: 100px;
+    width: 100%;
+    float: left;
+  }
+}
+
+
+@mixin blue-border-top{
+  &:before{
+    width: 100%;
+    content: "";
+    display: block;
+    background: $color-blue--dark;
+    height: 10px;
+    position: relative;
+  }
+}
+
+
+@mixin db-rte($var: default) {
+  p {
+    margin:1em 0;
+    font-size:em(13);
+  }
+  li {
+    font-size:em(13);
+    padding:.25em 0;
+  }
+  h1 {
+    @include heading-scale(4);
+    @extend %font-sans-serif-bold;
+//    color:$color-grey--mid2;
+  }
+
+  @if $var == default {
+  }
+
+  @if $var == inverted {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    p,
+    blockquote {
+      color:$color-text-invert;
+    }
+  }
+}
+
+@mixin db-header-clear {
+  margin-top:$height-header-palm;
+
+  @include media($mq-lap-up) {
+    margin-top:$height-header-lap;
+  }
+  
+  @include media($mq-desk-up) {
+    margin-top:$height-header-desk;
+  }
+}
+
+@mixin db-button {
+  background:$color-blue--dark;
+  color:$color-text-invert;
+  display:inline-block;
+  height:em(35);
+  line-height:em(35);
+  padding:0 em(20);
+}
+
+@mixin omega-reset($nth) {
+  &:nth-child(#{$nth}) { margin-right: flex-gutter(); }
+  &:nth-child(#{$nth}+1) { clear: none }
+}
+
+
+@mixin fill-parent-plus{
+  @include fill-parent;
+  width: 100%;
+  display: block;
+  @include db-clearfix;
+}
+
+
+
+
+
+
