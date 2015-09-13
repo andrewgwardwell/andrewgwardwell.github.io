@@ -47,11 +47,11 @@
 #   end
 # end
 
-set :css_dir, 'stylesheets'
+set :css_dir, 'app/dist/styles'
 
-set :js_dir, 'javascripts'
+set :js_dir, 'app/dist/scripts'
 
-set :images_dir, 'images'
+set :images_dir, 'app/dist/images'
 
 # Build-specific configuration
 configure :build do
