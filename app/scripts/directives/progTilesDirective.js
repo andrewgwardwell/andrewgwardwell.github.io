@@ -6,17 +6,19 @@ angular.module('berkleeApp')
     .directive('progTiles', ['$rootScope', function($rootScope) {
         return {
             restrict: 'E',
-            templateUrl: '/scripts/directives/templates/progTiles.html',
+            templateUrl: 'scripts/directives/templates/progTiles.html',
             controllerAs: 'vm',
             scope: {
                 filters: '=',
                 search: '=',
                 data: '=',
-                open: '@'
+                openf: '=',
             },
             controller: ['$scope', function($scope) {
-                $scope.init = function() {
-
+                    $scope.init = function() {
+                    },
+                    $scope.openFilters = function(){
+                        return $scope.openf;
                     },
                     $scope.evaluateFilters = function(tile, filters, search) {
                         var s_match, f_match;
@@ -39,7 +41,7 @@ angular.module('berkleeApp')
                             });
                             angular.forEach(filters, function(item) {
                                 if (typeof item != 'undefined') {
-                                	var index = _.indexOf(merged, item.toLowerCase());
+                                    var index = _.indexOf(merged, item.toLowerCase());
                                     index >= 0 ? find++ : find;
                                 }
                             });
@@ -56,14 +58,14 @@ angular.module('berkleeApp')
                             return 'gone';
                         }
                     },
-                    $scope.cleanLoc = function(list){
-                    	var countries = [];
-                        angular.forEach(list, function(el, index){
-                    		countries.push(el.info.location);
-                    	});
-                    	return countries;
+                    $scope.cleanLoc = function(list) {
+                        var countries = [];
+                        angular.forEach(list, function(el, index) {
+                            countries.push(el.info.location);
+                        });
+                        return countries;
                     };
-                    $scope.init();
+                $scope.init();
             }],
         }
     }]);

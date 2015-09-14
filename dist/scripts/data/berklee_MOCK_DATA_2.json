@@ -1,0 +1,1962 @@
+[{
+    "title": "sapien",
+    "tags": ["fringilla", "magna", "eu tincidunt"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall"],
+    "department": ["Jazz Composition"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "ESP",
+            "sub_location": ["Valencia"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/nature/1"
+}, {
+    "types": ["certificate"],
+    "title": "mauris laoreet",
+    "tags": ["montes", "non", "eu", "aenean auctor"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "IND",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/nature/2"
+}, {
+    "types": ["major"],
+    "title": "consequat dui nec",
+    "tags": ["ligula in", "et", "vitae"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year"],
+    "interest": ["Mandolin", "Violin", "Ear Training", "Clarinet"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "HKG",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "MYS",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/nature/3"
+}, {
+    "types": ["minor"],
+    "title": "nulla suscipit",
+    "tags": ["sapien quis", "congue diam", "aenean auctor", "vel", "nisi"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer", "Academic Year"],
+    "interest": ["Banjo"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "ESP",
+            "sub_location": ["Valencia"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/nature/4"
+}, {
+    "title": "justo eu",
+    "tags": ["lorem ipsum"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer", "Academic Year"],
+    "interest": ["Piano", "Percussion", "Flute", "French horn"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "USA",
+            "sub_location": ["Boston"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/nature/5"
+}, {
+    "types": ["major"],
+    "title": "dictumst",
+    "tags": ["praesent lectus"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year", "Summer"],
+    "interest": ["Oboe", "Ear Training", "Banjo", "Bassoon", "Piano", "Mandolin"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "DOM",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/nature/6"
+}, {
+    "types": ["graduate"],
+    "title": "integer pede justo",
+    "tags": ["id", "metus"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year", "Summer"],
+    "interest": ["Percussion"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "MYS",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles", "Boston"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/nature/7"
+}, {
+    "title": "vel accumsan tellus",
+    "tags": ["mi in", "ipsum", "dictumst maecenas"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year"],
+    "department": ["Piano"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles", "Boston"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/nature/8"
+}, {
+    "types": ["graduate", "online"],
+    "title": "luctus",
+    "tags": ["dictumst", "nulla nisl"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall"],
+    "interest": ["Cello", "Ear Training", "Harp", "Tuba"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "BRA",
+            "sub_location": ["Sao Paulo"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/nature/9"
+}, {
+    "types": ["minor", "certificate"],
+    "title": "odio odio",
+    "tags": ["velit vivamus", "amet", "at dolor"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Spring"],
+    "department": ["Music Education"],
+    "interest": ["Piano"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "BRA",
+            "sub_location": ["Sao Paulo"]
+        }
+    }, {
+        "info": {
+            "location": "USA",
+            "sub_location": ["Boston", "Los Angeles"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/people/1"
+}, {
+    "types": ["minor", "online"],
+    "title": "montes",
+    "tags": ["sed", "luctus et", "vel"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall", "Summer"],
+    "interest": ["Piano", "Clarinet", "Bassoon", "Ear Training", "Tuba"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/people/2"
+}, {
+    "title": "penatibus et magnis",
+    "tags": ["risus", "lacus at", "quisque", "at vulputate"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer", "Academic Year"],
+    "department": ["Composition", "Film Scoring"],
+    "interest": ["Clarinet", "Mandolin", "Saxophone", "Euphonium"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "IRL",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles", "Boston"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/people/3"
+
+}, {
+    "title": "sit",
+    "tags": ["ipsum primis", "vestibulum", "massa id", "aenean", "donec diam"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year"],
+    "interest": ["Banjo"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "ESP",
+            "sub_location": ["Valencia"]
+        }
+    }, {
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles", "Boston"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/people/4"
+
+}, {
+    "title": "dui",
+    "tags": ["non pretium", "praesent blandit", "ultrices erat"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles", "Boston"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/people/5"
+}, {
+    "types": ["major"],
+    "title": "donec dapibus",
+    "tags": ["quis libero", "odio", "tellus semper", "lorem", "vel accumsan"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer", "Fall"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "ESP",
+            "sub_location": ["Valencia"]
+        }
+    }, {
+        "info": {
+            "location": "CPV",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/people/6"
+}, {
+    "types": ["major", "minor"],
+    "title": "pede ac diam",
+    "tags": ["eget"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Spring"],
+    "department": ["Guitar", "Electronic Production and Design", "Contemporary Writing and Production", "Liberal Arts"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles", "Boston"]
+        }
+    }, {
+        "info": {
+            "location": "BRA",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://unsplash.it/600/480"
+}, {
+    "types": ["graduate"],
+    "title": "proin leo odio",
+    "tags": ["libero", "duis bibendum", "at"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year"],
+    "interest": ["Trumpet", "Bassoon", "Viola", "Trombone", "French horn"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "MEX",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/city"
+}, {
+    "types": ["minor"],
+    "title": "nulla nunc",
+    "tags": ["nisl nunc", "placerat ante", "justo", "risus"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year"],
+    "department": ["Strings", "Electronic Production and Design", "Composition", "Bass", "Music Production and Engineering"],
+    "interest": ["Harp", "Bassoon"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles", "Boston"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://placeimg.com/600/480"
+}, {
+    "title": "imperdiet nullam",
+    "tags": ["venenatis non", "ut tellus", "curae donec", "cras pellentesque"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall"],
+    "department": ["Voice"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "BRA",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/people/7"
+
+}, {
+    "types": ["certificate", "minor"],
+    "title": "primis in",
+    "tags": ["vulputate justo", "fusce consequat", "in faucibus", "eros viverra", "est phasellus"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Spring"],
+    "department": ["Music Education", "Percussion", "Brass", "Music Business/Management", "Music Production and Engineering"],
+    "interest": ["Cello"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles", "Boston"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/people/8"
+}, {
+    "types": ["major", "graduate"],
+    "title": "sapien",
+    "tags": ["cubilia curae", "morbi sem"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year", "Spring"],
+    "interest": ["Euphonium", "French horn", "Bassoon", "Viola", "Ear Training", "Clarinet"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "CHN",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles", "Boston"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/nature"
+}, {
+    "types": ["minor"],
+    "title": "vestibulum",
+    "tags": ["phasellus id", "in", "non mi", "ut mauris", "in felis"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall", "Spring"],
+    "department": ["Composition"],
+    "interest": ["Violin", "Ensembles", "Flute", "Cello", "Viola", "Banjo"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles", "Boston"]
+        }
+    }, {
+        "info": {
+            "location": "HKG",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/people/9"
+
+}, {
+    "types": ["graduate"],
+    "title": "massa tempor convallis",
+    "tags": ["sapien placerat"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall", "Summer"],
+    "department": ["Bass"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "ESP",
+            "sub_location": ["Valencia"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/city/1"
+}, {
+    "title": "id",
+    "tags": ["aliquam", "auctor"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Spring"],
+    "department": ["Music Production and Engineering", "Strings", "Bass"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "BRA",
+            "sub_location": ["Sao Paulo"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/city/2"
+}, {
+    "types": ["certificate"],
+    "title": "vel pede",
+    "tags": ["tortor", "nulla", "dolor", "phasellus", "ac diam"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "BRA",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "JPN",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/city/3"
+}, {
+    "types": ["certificate", "online"],
+    "title": "rutrum",
+    "tags": ["sed vel", "non", "cras"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall"],
+    "interest": ["Cello", "Harp", "Flute", "Percussion", "Viola", "Trumpet"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "IRL",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/city/4"
+}, {
+    "types": ["graduate"],
+    "title": "ullamcorper augue a",
+    "tags": ["potenti"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer", "Academic Year"],
+    "department": ["Harmony", "Liberal Arts", "Film Scoring", "Guitar"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "HKG",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles", "Boston"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/city/5"
+}, {
+    "types": ["minor", "online"],
+    "title": "sapien",
+    "tags": ["augue vestibulum", "mauris", "quam fringilla", "in porttitor", "vel nisl"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year", "Spring"],
+    "department": ["Professional Music", "Piano", "Voice", "Film Scoring", "Music Production and Engineering", "Liberal Arts"],
+    "interest": ["Oboe"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "IRL",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles", "Boston"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/city/6"
+}, {
+    "title": "felis",
+    "tags": ["ut odio", "eget congue", "in faucibus"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year"],
+    "department": ["Contemporary Writing and Production", "Music Therapy"],
+    "interest": ["Trumpet", "Piano"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "USA",
+            "sub_location": ["Boston"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/city/7"
+}, {
+    "types": ["major", "certificate"],
+    "title": "vivamus metus arcu",
+    "tags": ["vestibulum", "in tempus", "justo"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall", "Academic Year"],
+    "interest": ["Piano", "Voice", "Trombone", "Ear Training", "Clarinet"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "CPV",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://placeimg.com/600/480/nature"
+}, {
+    "types": ["certificate", "graduate"],
+    "title": "id",
+    "tags": ["morbi"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer"],
+    "department": ["Voice", "Ear Training", "Professional Music", "Electronic Production and Design"],
+    "interest": ["Cello", "Ensembles", "Viola", "Voice"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles", "Boston"]
+        }
+    }, {
+        "info": {
+            "location": "ITA",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/city"
+}, {
+    "types": ["graduate"],
+    "title": "ante",
+    "tags": ["diam", "nec", "integer non"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer", "Fall"],
+    "interest": ["Banjo"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles", "Boston", "New York"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/city/9"
+}, {
+    "title": "luctus",
+    "tags": ["aenean sit", "nulla pede", "quis", "sapien varius", "quam"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer", "Fall"],
+    "department": ["Film Scoring"],
+    "interest": ["Oboe", "Trombone", "Clarinet", "Voice"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "BRA",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "ARG",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://placeimg.com/600/480/tech"
+}, {
+    "types": ["minor"],
+    "title": "viverra",
+    "tags": ["diam", "morbi porttitor", "purus aliquet", "primis", "quis"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall", "Spring"],
+    "department": ["Piano", "Bass", "Professional Music"],
+    "interest": ["Piano", "Ensembles", "Violin"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "IRL",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "ARG",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://placeimg.com/600/480/people"
+}, {
+    "types": ["online"],
+    "title": "eros elementum pellentesque",
+    "tags": ["odio in", "posuere cubilia", "id", "nisl nunc", "tincidunt"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Spring", "Summer"],
+    "interest": ["Voice", "Saxophone", "Clarinet"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles", "Boston"]
+        }
+    }, {
+        "info": {
+            "location": "MYS",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/city/7"
+}, {
+    "title": "semper sapien",
+    "tags": ["duis at"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Spring"],
+    "interest": ["Tuba", "Clarinet"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "DOM",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles", "Boston"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://placeimg.com/600/480/tech"
+}, {
+    "types": ["major"],
+    "title": "bibendum",
+    "tags": ["nam", "nunc proin", "pede venenatis", "tellus in"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall", "Academic Year"],
+    "department": ["Contemporary Writing and Production", "Strings"],
+    "interest": ["Saxophone", "Banjo", "French horn"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "MEX",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "MYS",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/technics/1"
+}, {
+    "title": "rhoncus",
+    "tags": ["suspendisse ornare", "dui vel", "semper"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall", "Spring"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "ESP",
+            "sub_location": ["Valencia"]
+        }
+    }, {
+        "info": {
+            "location": "USA",
+            "sub_location": ["Boston"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/technics/2"
+}, {
+    "types": ["major"],
+    "title": "non",
+    "tags": ["ut", "pede", "vestibulum quam"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year", "Fall"],
+    "department": ["Piano", "Music Therapy"],
+    "interest": ["French horn"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "CPV",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "MEX",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/technics/3"
+}, {
+    "types": ["major", "online"],
+    "title": "vestibulum sed magna",
+    "tags": ["nibh", "sed"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Spring", "Fall"],
+    "department": ["Guitar", "Electronic Production and Design", "Bass", "Brass"],
+    "interest": ["Euphonium", "Ensembles", "Tuba", "Trombone"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "ARG",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "IRL",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/technics/5"
+}, {
+    "types": ["minor", "graduate"],
+    "title": "lobortis vel",
+    "tags": ["at lorem", "fusce consequat"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Spring", "Academic Year"],
+    "department": ["Electronic Production and Design", "Bass", "Ear Training"],
+    "interest": ["French horn", "Trumpet", "Flute", "Oboe", "Saxophone", "Clarinet"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "CHN",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "USA",
+            "sub_location": ["Boston"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/technics/6"
+}, {
+    "types": ["major"],
+    "title": "dui vel nisl",
+    "tags": ["accumsan tortor"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer", "Spring"],
+    "interest": ["Banjo", "Ear Training", "French horn"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "DOM",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "HKG",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/technics/7"
+}, {
+    "types": ["major"],
+    "title": "non velit donec",
+    "tags": ["nascetur"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall"],
+    "department": ["Bass"],
+    "interest": ["Percussion", "Bassoon", "French horn", "Saxophone", "Ear Training"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles", "Boston"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/technics/8"
+}, {
+    "types": ["minor", "online"],
+    "title": "curae mauris",
+    "tags": ["sem"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year", "Spring"],
+    "department": ["Electronic Production and Design", "Ensembles", "Songwriting", "Strings", "Composition", "Music Business/Management"],
+    "interest": ["Oboe"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "COL",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "CHN",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/technics/9"
+}, {
+    "types": ["major"],
+    "title": "arcu adipiscing molestie",
+    "tags": ["eu est", "tincidunt lacus", "in"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer", "Academic Year"],
+    "department": ["Bass"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "ARG",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image":"http://lorempixel.com/600/480/transport/1/"
+}, {
+    "types": ["minor"],
+    "title": "tincidunt",
+    "tags": ["urna", "varius", "in hac", "nibh", "justo"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall", "Summer"],
+    "interest": ["Harp"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "ESP",
+            "sub_location": ["Valencia"]
+        }
+    }, {
+        "info": {
+            "location": "ARG",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image":"http://lorempixel.com/600/480/transport/1/"
+}, {
+    "title": "libero",
+    "tags": ["congue", "curae", "velit eu", "ultrices"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "PRI",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image":"http://lorempixel.com/600/480/transport/4"
+}, {
+    "types": ["minor", "online"],
+    "title": "blandit",
+    "tags": ["curabitur", "pede"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer", "Spring"],
+    "interest": ["Flute"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "USA",
+            "sub_location": ["Boston"]
+        }
+    }, {
+        "info": {
+            "location": "COL",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image":"http://lorempixel.com/600/480/transport/5"
+}, {
+    "types": ["online"],
+    "title": "ipsum",
+    "tags": ["a"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer", "Academic Year"],
+    "interest": ["Harp", "Oboe", "Ensembles", "Violin"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "CPV",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://unsplash.it/600/480"
+}, {
+    "title": "posuere cubilia",
+    "tags": ["posuere", "penatibus et"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall"],
+    "department": ["Bass", "Film Scoring"],
+    "interest": ["Viola", "Trumpet", "Euphonium", "Ensembles", "French horn"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "MEX",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://placeimg.com/600/480"
+}, {
+    "types": ["certificate"],
+    "title": "nulla justo",
+    "tags": ["ullamcorper augue", "odio", "est", "morbi ut"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer", "Fall"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "DOM",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "PRI",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://placeimg.com/600/480"
+}, {
+    "types": ["certificate", "minor"],
+    "title": "imperdiet et commodo",
+    "tags": ["dapibus"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "DOM",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "ARG",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image":"http://lorempixel.com/600/480/transport/6"
+}, {
+    "title": "morbi",
+    "tags": ["tortor risus", "pretium nisl"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year", "Spring"],
+    "department": ["Jazz Composition", "Harmony", "Film Scoring", "Contemporary Writing and Production", "Music Production and Engineering"],
+    "interest": ["Saxophone"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "ESP",
+            "sub_location": ["Valencia"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://unsplash.it/600/480"
+}, {
+    "title": "sapien ut nunc",
+    "tags": ["metus"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer"],
+    "department": ["Ensembles", "Electronic Production and Design"],
+    "interest": ["Mandolin", "Clarinet", "Ensembles", "Trumpet", "Banjo"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "ITA",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "CPV",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image":"http://lorempixel.com/600/480/transport/7"
+}, {
+    "title": "justo morbi ut",
+    "tags": ["quam turpis", "sapien", "at", "nec", "libero nullam"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year", "Fall"],
+    "department": ["Woodwinds", "Music Education", "Contemporary Writing and Production"],
+    "interest": ["Trombone", "Piano", "Banjo", "Clarinet", "Saxophone"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "DOM",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "IRL",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/city"
+}, {
+    "types": ["major", "minor"],
+    "title": "eros suspendisse accumsan",
+    "tags": ["tellus nisi", "ultrices mattis", "ridiculus", "sed"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Spring"],
+    "department": ["Brass", "Film Scoring", "Jazz Composition", "Songwriting", "Music Therapy", "Music Business/Management"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "COL",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image":"http://lorempixel.com/600/480/transport/8"
+}, {
+    "title": "luctus et",
+    "tags": ["elementum", "at ipsum"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer"],
+    "department": ["Bass", "Harmony", "Woodwinds", "Music Therapy"],
+    "interest": ["Mandolin", "Violin", "Saxophone", "Harp", "Trombone"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "JPN",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://unsplash.it/600/480"
+}, {
+    "types": ["certificate", "online"],
+    "title": "vestibulum rutrum",
+    "tags": ["non ligula", "eros", "augue quam", "mattis"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year", "Fall"],
+    "interest": ["Banjo", "Saxophone"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "IND",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles", "Boston"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/transport/9"
+}, {
+    "types": ["graduate"],
+    "title": "vitae quam suspendisse",
+    "tags": ["eu", "vitae", "est", "accumsan tellus"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall", "Summer"],
+    "interest": ["French horn", "Mandolin", "Banjo", "Trumpet", "Trombone"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "ITA",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://unsplash.it/600/480"
+}, {
+    "types": ["online"],
+    "title": "vehicula consequat",
+    "tags": ["tellus", "habitasse", "quis", "fringilla rhoncus"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall", "Summer"],
+    "department": ["Professional Music", "Music Production and Engineering", "Music Business/Management"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "ITA",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "MEX",
+            "sub_location": ["Mexico City"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/transport/10"
+}, {
+    "types": ["online", "minor"],
+    "title": "iaculis",
+    "tags": ["congue etiam"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Spring", "Fall"],
+    "interest": ["Flute", "French horn", "Violin", "Percussion", "Ear Training"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "CHN",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "COL",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/food"
+}, {
+    "types": ["online", "graduate"],
+    "title": "et",
+    "tags": ["morbi non"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall"],
+    "department": ["Liberal Arts", "Voice"],
+    "interest": ["Violin", "Oboe"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "ARG",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://unsplash.it/600/480"
+}, {
+    "types": ["minor", "certificate"],
+    "title": "elementum",
+    "tags": ["scelerisque mauris", "lacus", "praesent id", "nisl"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year"],
+    "interest": ["Piano", "Percussion", "Euphonium"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "ESP",
+            "sub_location": ["Valencia"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://placeimg.com/600/480"
+}, {
+    "types": ["certificate"],
+    "title": "id mauris",
+    "tags": ["eget", "pharetra", "quis", "in"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year", "Summer"],
+    "department": ["Professional Music", "Electronic Production and Design", "Contemporary Writing and Production", "Music Business/Management", "Jazz Composition"],
+    "interest": ["Tuba", "Euphonium", "Voice", "Viola", "Trumpet"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles", "Boston"]
+        }
+    }, {
+        "info": {
+            "location": "ARG",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://unsplash.it/600/480"
+}, {
+    "types": ["minor", "major"],
+    "title": "erat quisque",
+    "tags": ["at feugiat", "sed"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year", "Summer"],
+    "interest": ["Ensembles", "Violin", "Banjo"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "CPV",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "CHN",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://placeimg.com/600/480"
+}, {
+    "title": "hendrerit",
+    "tags": ["nisi nam", "consequat morbi", "ultrices enim", "curae duis", "nullam orci"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall", "Spring"],
+    "department": ["Jazz Composition", "Ensembles", "Music Production and Engineering", "Ear Training"],
+    "interest": ["Oboe", "Mandolin"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "MYS",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://unsplash.it/600/480"
+}, {
+    "title": "suspendisse potenti in",
+    "tags": ["eu magna", "eleifend luctus", "non", "faucibus orci"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall", "Spring"],
+    "department": ["Music Education", "Liberal Arts", "Ear Training"],
+    "interest": ["Trumpet", "Violin", "Percussion"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "BRA",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://unsplash.it/600/480"
+}, {
+    "types": ["minor", "online"],
+    "title": "duis aliquam convallis",
+    "tags": ["nisl nunc", "lacus at", "ultrices", "nisi nam", "id nisl"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall"],
+    "interest": ["Banjo", "Viola", "French horn"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "ARG",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "CHN",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://placeimg.com/600/480"
+}, {
+    "types": ["certificate"],
+    "title": "curabitur",
+    "tags": ["in quam", "non", "imperdiet sapien"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year", "Fall"],
+    "department": ["Guitar", "Woodwinds", "Brass"],
+    "interest": ["French horn", "Euphonium"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "MYS",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/abstract"
+}, {
+    "types": ["online", "major"],
+    "title": "eget",
+    "tags": ["erat eros", "nulla sed", "ante vel", "cras in"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Spring", "Summer"],
+    "department": ["Brass", "Bass", "Harmony", "Film Scoring"],
+    "interest": ["Voice", "Percussion"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "USA",
+            "sub_location": ["Boston"]
+        }
+    }, {
+        "info": {
+            "location": "IRL",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://placeimg.com/600/480"
+}, {
+    "types": ["certificate"],
+    "title": "nisi",
+    "tags": ["nullam orci", "lectus vestibulum"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall", "Summer"],
+    "department": ["Guitar", "Voice", "Jazz Composition", "Music Education"],
+    "interest": ["Flute", "Trumpet", "Tuba", "Violin", "Euphonium"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "CHN",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://placeimg.com/600/480"
+}, {
+    "types": ["graduate", "major"],
+    "title": "phasellus",
+    "tags": ["neque libero", "mattis odio"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer", "Academic Year"],
+    "interest": ["Harp", "Banjo"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "ESP",
+            "sub_location": ["Valencia"]
+        }
+    }, {
+        "info": {
+            "location": "ITA",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://unsplash.it/600/480"
+}, {
+    "title": "curae mauris viverra",
+    "tags": ["vel", "amet", "proin leo", "porta"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall", "Summer"],
+    "department": ["Ear Training", "Songwriting", "Percussion", "Music Therapy", "Voice", "Bass"],
+    "interest": ["Saxophone", "Clarinet", "Cello", "Flute", "Trombone"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "PRI",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://placeimg.com/600/480"
+}, {
+    "types": ["major", "online"],
+    "title": "tristique tortor",
+    "tags": ["vitae consectetuer"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall"],
+    "department": ["Music Production and Engineering", "Strings"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "COL",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "BRA",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://unsplash.it/600/480"
+}, {
+    "types": ["major"],
+    "title": "in felis",
+    "tags": ["risus praesent", "ipsum primis", "erat volutpat"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year", "Spring"],
+    "interest": ["Saxophone"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "ESP",
+            "sub_location": ["Valencia"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://placeimg.com/600/480"
+}, {
+    "types": ["online"],
+    "title": "porttitor",
+    "tags": ["mauris non", "lectus", "sit", "pede", "vestibulum"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year"],
+    "interest": ["Ensembles", "Violin"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "ARG",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/nature"
+}, {
+    "types": ["minor"],
+    "title": "nunc purus phasellus",
+    "tags": ["felis", "suscipit", "in faucibus", "in faucibus"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year", "Fall"],
+    "department": ["Voice", "Woodwinds", "Music Production and Engineering", "Songwriting", "Jazz Composition"],
+    "interest": ["Voice", "Viola"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "ARG",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://unsplash.it/600/480"
+}, {
+    "types": ["minor", "certificate"],
+    "title": "duis aliquam",
+    "tags": ["quisque erat", "rhoncus", "ac tellus"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer"],
+    "department": ["Liberal Arts", "Woodwinds", "Contemporary Writing and Production"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "USA",
+            "sub_location": ["Boston"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://placeimg.com/600/480"
+}, {
+    "types": ["online"],
+    "title": "praesent id massa",
+    "tags": ["sapien", "nibh fusce"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Spring"],
+    "department": ["Bass", "Piano"],
+    "interest": ["Trumpet", "Trombone"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "ESP",
+            "sub_location": ["Valencia"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://placeimg.com/600/480"
+}, {
+    "types": ["certificate"],
+    "title": "lectus pellentesque",
+    "tags": ["eleifend luctus", "accumsan", "in magna", "sollicitudin vitae", "turpis"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Spring", "Academic Year"],
+    "department": ["Ensembles", "Harmony", "Music Education", "Piano", "Film Scoring"],
+    "interest": ["French horn", "Harp", "Oboe", "Voice"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "BRA",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://placeimg.com/600/480"
+}, {
+    "types": ["graduate", "certificate"],
+    "title": "sit",
+    "tags": ["proin leo"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year", "Fall"],
+    "department": ["Contemporary Writing and Production"],
+    "interest": ["Cello", "Ear Training", "Banjo"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "USA",
+            "sub_location": ["Boston"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/abstract/5"
+}, {
+    "types": ["graduate", "major"],
+    "title": "nunc",
+    "tags": ["neque", "pharetra magna", "lobortis sapien", "dapibus augue", "nulla"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer"],
+    "department": ["Music Education"],
+    "interest": ["Voice", "Viola", "Violin", "Mandolin", "Banjo", "Euphonium"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "HKG",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "BRA",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://placeimg.com/600/480"
+}, {
+    "types": ["minor"],
+    "title": "faucibus",
+    "tags": ["habitasse platea"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall", "Summer"],
+    "interest": ["Mandolin", "Euphonium", "Percussion", "Flute", "Banjo", "Tuba"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "USA",
+            "sub_location": ["Los Angeles"]
+        }
+    }, {
+        "info": {
+            "location": "BRA",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/abstract/4"
+}, {
+    "types": ["certificate"],
+    "title": "diam",
+    "tags": ["lacus", "morbi", "in", "habitasse platea"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year", "Spring"],
+    "department": ["Brass", "Electronic Production and Design", "Harmony", "Jazz Composition", "Voice", "Music Therapy"],
+    "interest": ["Piano", "Ensembles", "Trombone", "French horn", "Harp", "Violin"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "ESP",
+            "sub_location": ["Valencia"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://unsplash.it/600/480"
+}, {
+    "types": ["certificate", "online"],
+    "title": "mus vivamus",
+    "tags": ["vestibulum proin", "primis in", "nulla", "nisl nunc", "eleifend"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall", "Spring"],
+    "interest": ["Clarinet", "Percussion"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "PRI",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "PRI",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://placeimg.com/600/480"
+}, {
+    "types": ["minor", "certificate"],
+    "title": "leo",
+    "tags": ["pellentesque ultrices"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Spring", "Summer"],
+    "department": ["Jazz Composition", "Music Therapy", "Piano", "Guitar", "Voice", "Music Business/Management"],
+    "interest": ["Flute", "Banjo", "Cello", "French horn", "Saxophone"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "ESP",
+            "sub_location": ["Valencia"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/abstract/3"
+}, {
+    "types": ["minor", "graduate"],
+    "title": "in porttitor",
+    "tags": ["amet", "in ante", "dui luctus", "lorem quisque"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year"],
+    "interest": ["Euphonium", "Trombone", "Mandolin", "Saxophone"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "ARG",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/abstract/2"
+}, {
+    "types": ["minor", "major"],
+    "title": "quisque",
+    "tags": ["vestibulum", "quisque", "sit"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer", "Academic Year"],
+    "department": ["Songwriting", "Liberal Arts", "Music Education", "Harmony", "Ear Training"],
+    "interest": ["Oboe"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "IRL",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "ITA",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/abstract/3"
+}, {
+    "types": ["online", "minor"],
+    "title": "leo maecenas pulvinar",
+    "tags": ["quis orci", "nisl venenatis", "ut nulla", "elit proin", "dictumst"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer"],
+    "department": ["Brass", "Professional Music", "Guitar"],
+    "interest": ["Bassoon"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "BRA",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/abstract/1"
+}, {
+    "types": ["major"],
+    "title": "ut odio",
+    "tags": ["vestibulum aliquet", "habitasse", "nec dui"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall", "Summer"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "MYS",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "CPV",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://placeimg.com/600/480"
+}, {
+    "types": ["minor", "online"],
+    "title": "duis ac",
+    "tags": ["nisl", "rutrum nulla", "sapien arcu", "vestibulum", "nisl duis"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer"],
+    "department": ["Liberal Arts", "Music Education", "Voice", "Music Production and Engineering", "Songwriting", "Strings"],
+    "interest": ["Clarinet"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "BRA",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/nightlife/10"
+}, {
+    "title": "varius nulla",
+    "tags": ["odio porttitor", "suspendisse potenti", "nullam", "vestibulum sed"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer", "Fall"],
+    "department": ["Strings", "Ear Training", "Music Business/Management", "Piano"],
+    "interest": ["Ensembles", "Tuba", "Saxophone"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "COL",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "USA",
+            "sub_location": ["Boston"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/nightlife/8"
+}, {
+    "types": ["graduate"],
+    "title": "in",
+    "tags": ["lorem ipsum"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall", "Spring"],
+    "department": ["Ensembles", "Professional Music", "Guitar"],
+    "interest": ["Euphonium", "Trombone", "Harp", "Saxophone"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "CPV",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "MYS",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/nightlife/7"
+}, {
+    "types": ["online"],
+    "title": "nisl",
+    "tags": ["ultricies", "proin eu", "lectus in"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year", "Fall"],
+    "department": ["Woodwinds"],
+    "interest": ["Trumpet", "Harp", "French horn", "Ear Training", "Piano"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "MEX",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://unsplash.it/600/480"
+}, {
+    "title": "consequat morbi",
+    "tags": ["eu", "diam neque", "nullam"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall"],
+    "department": ["Music Education", "Songwriting"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "ARG",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/nightlife/6"
+}, {
+    "types": ["major"],
+    "title": "sit amet sem",
+    "tags": ["tellus nulla", "natoque penatibus", "viverra eget"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Spring"],
+    "interest": ["Saxophone", "Oboe", "Harp"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "ESP",
+            "sub_location": ["Valencia"]
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://placeimg.com/600/480"
+}, {
+    "types": ["minor"],
+    "title": "quis tortor id",
+    "tags": ["at", "justo lacinia", "donec", "in libero"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Academic Year", "Spring"],
+    "interest": ["Clarinet", "Flute", "Violin", "Trombone"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "COL",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "COL",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/nightlife/5"
+}, {
+    "types": ["minor", "certificate"],
+    "title": "pretium quis",
+    "tags": ["bibendum", "elit"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall", "Academic Year"],
+    "interest": ["Euphonium"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "MYS",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "DOM",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://unsplash.it/600/480"
+}, {
+    "types": ["minor"],
+    "title": "integer",
+    "tags": ["curae", "venenatis turpis"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall", "Academic Year"],
+    "department": ["Guitar"],
+    "interest": ["Clarinet"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "PRI",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/nightlife/4"
+}, {
+    "types": ["minor"],
+    "title": "eu",
+    "tags": ["enim sit", "in faucibus"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall"],
+    "interest": ["Viola"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "MYS",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "PRI",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/people"
+}, {
+    "types": ["certificate", "major"],
+    "title": "habitasse",
+    "tags": ["ut erat", "sapien arcu", "eu magna", "in faucibus"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Spring", "Fall"],
+    "interest": ["Trumpet", ""],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "ESP",
+            "sub_location": ["Valencia"]
+        }
+    }, {
+        "info": {
+            "location": "DOM",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/nightlife/4"
+}, {
+    "types": ["certificate", "graduate"],
+    "title": "neque libero",
+    "tags": ["quis turpis", "eu", "duis consequat"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Summer", "Academic Year"],
+    "department": ["Piano"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "PRI",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/nightlife/3"
+}, {
+    "types": ["graduate"],
+    "title": "convallis",
+    "tags": ["velit nec", "cubilia curae"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall"],
+    "department": ["Piano", "Composition", "Ensembles", "Contemporary Writing and Production"],
+    "interest": ["Clarinet", "Mandolin", "Trombone", "Euphonium", "Oboe"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "CPV",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/nightlife/2"
+}, {
+    "title": "nisl ut",
+    "tags": ["sed nisl"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Fall", "Spring"],
+    "department": ["Harmony", "Songwriting", "Music Production and Engineering", "Brass", "Professional Music", "Percussion"],
+    "interest": ["Ear Training", "Violin", "Piano"],
+    "placeholder": "https://unsplash.it",
+    "countries": [{
+        "info": {
+            "location": "DOM",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "JPN",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "https://unsplash.it/600/480"
+}, {
+    "title": "primis in",
+    "tags": ["vitae", "eu interdum", "sed", "justo"],
+    "url": "https://www.berklee.edu/academics",
+    "time": ["Spring", "Summer"],
+    "department": ["Electronic Production and Design", "Professional Music", "Contemporary Writing and Production"],
+    "interest": ["Percussion"],
+    "placeholder": "https://placeimg.com",
+    "countries": [{
+        "info": {
+            "location": "DOM",
+            "sub_location": null
+        }
+    }, {
+        "info": {
+            "location": "CHN",
+            "sub_location": null
+        }
+    }],
+    "info": "error: can't clone NilClass",
+    "image": "http://lorempixel.com/600/480/nightlife/1/"
+}]

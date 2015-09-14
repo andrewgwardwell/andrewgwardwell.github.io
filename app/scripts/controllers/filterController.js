@@ -10,7 +10,7 @@ angular.module('berkleeApp')
         $scope.filters = [];
         $scope.filAct = false;
         $scope.locAct = false;
-        $scope.open = false;
+        $scope.openf = false;
         $scope.options = {
             time: [],
             degree: [],
@@ -53,10 +53,18 @@ angular.module('berkleeApp')
             });
             $scope.options = {
                 // Type: options.tags,
-                Time: _.filter(options.time, function(t){return typeof t != 'undefined' && t != null}),
-                Department: _.filter(options.department, function(t){return typeof t != 'undefined' && t != null}),
-                Interest: _.filter(options.interest,  function(t){return typeof t != 'undefined' && t != null && t != ''}),
-                Types: _.filter(options.types,  function(t){return typeof t != 'undefined' && t != null})
+                Time: _.filter(options.time, function(t) {
+                    return typeof t != 'undefined' && t != null
+                }),
+                Department: _.filter(options.department, function(t) {
+                    return typeof t != 'undefined' && t != null
+                }),
+                Interest: _.filter(options.interest, function(t) {
+                    return typeof t != 'undefined' && t != null && t != ''
+                }),
+                Types: _.filter(options.types, function(t) {
+                    return typeof t != 'undefined' && t != null
+                })
             };
 
         };
@@ -99,12 +107,12 @@ angular.module('berkleeApp')
             $scope.setFilters(true);
         };
 
-        $scope.removeFilter = function(word){
+        $scope.removeFilter = function(word) {
             $scope.checkedTypes = _.without($scope.checkedTypes, word);
-            $scope.filters = _.without($scope.filters, word); 
+            $scope.filters = _.without($scope.filters, word);
         };
 
-        $scope.isChecked = function(item){
+        $scope.isChecked = function(item) {
             return _.contains($scope.checkedTypes, item);
         };
 
@@ -127,20 +135,22 @@ angular.module('berkleeApp')
         $scope.openTypes = function() {
             if ($scope.typeOpen) {
                 $scope.typeOpen = false;
+                $scope.openf = false;
             } else {
                 $scope.typeOpen = true;
                 $scope.locationOpen = false;
-                $scope.open = true;
+                $scope.openf = true;
             }
         };
 
         $scope.openLocations = function(event) {
             if ($scope.locationOpen) {
                 $scope.locationOpen = false;
+                $scope.openf = false;
             } else {
                 $scope.typeOpen = false;
                 $scope.locationOpen = true;
-                $scope.open = true;
+                $scope.openf = true;
             }
 
         };
