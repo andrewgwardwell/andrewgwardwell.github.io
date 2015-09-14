@@ -46,6 +46,15 @@
     .sel-filter {
         margin-bottom: 1px;
         margin-right: 1px;
+        span {
+            background-color: #d81118;
+        }
+        &:hover {
+            cursor: pointer;
+            span {
+                background-color: darken(#d81118, 5%);
+            }
+        }
     }
 }
 

@@ -3,7 +3,7 @@
 angular.module('berkleeApp')
     .service('programDataService',['$http', function($http) {
         var progData = null;
-        var promise = $http.get('../scripts/data/berklee_MOCK_DATA_2.json').then(
+        var promise = $http.get('scripts/data/berklee_MOCK_DATA_2.json').then(
             function(response){
                 progData = response.data;
                 return progData;

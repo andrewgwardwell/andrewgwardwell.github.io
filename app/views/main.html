@@ -5,7 +5,7 @@
         </div>
         <div class="prog-count filter-item">
             <div class="chosen-filters">
-                <div class="sel-filter" ng-repeat="sing in filters">
+                <div class="sel-filter" title="Remove {{sing}} filter." ng-repeat="sing in filters">
                     <span class="label label-primary" ng-click="removeFilter(sing)">{{sing}}</span>
                 </div>
             </div>
@@ -57,5 +57,5 @@
             </div>
         </div>
     </div>
-    <prog-tiles open="open" filters="filters" search="search" data="data"></prog-tiles>
+    <prog-tiles openf="openf" filters="filters" search="search" data="data"></prog-tiles>
 </div>

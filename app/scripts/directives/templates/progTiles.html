@@ -1,4 +1,4 @@
-<div class="progtiles grid" ng-class="open ? 'filter-open': ''">
+<div class="progtiles grid" ng-class="openFilters() ? 'filter-open':''">
 		<figure class="effect-ming progtile" ng-repeat="tile in data" ng-class="evaluateFilters(tile, filters, search)">
 		<img ng-src="{{tile.image}}"/>
 		<figcaption>
